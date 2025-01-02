@@ -1,25 +1,23 @@
-# calender
-CALENDAR APPLICATION FOR COMMUNICATION TRACKING
+# CALENDAR APPLICATION FOR COMMUNICATION TRACKING
 Submitted By:
 •	Name: MOHAMMAD HASINA
 •	Email: hasinamd12@gmail.com
 
-#Project Overview
+# Project Overview
 Project Title: Calendar Application for Communication Tracking
 Objective: The objective is to develop a React-based Calendar Application that helps my company maintain strong relationships with other organizations by efficiently tracking communication. This app will enable logging past interactions, planning future follow-ups, and managing engagement frequency based on predefined schedules. I will focus on ensuring the tool is user-friendly, clear, and handles data efficiently.usability, clarity, and efficient data handling.
 
-#GitHub Repository Details
+# GitHub Repository Details
 Repository Link: https://github.com/MOHAMMADHASINA/calender
 Repository Structure:
 •	/src: Contains all source code files, organized into components, services, and utilities.
 •	/public: Static assets used in the application.
-•	README.md: Detailed setup, deployment instructions, and application notes.
 Highlights:
 •	Modular and reusable components.
 •	Separation of concerns adhered to in design.
 •	Inline comments for better code understanding.
 
-#Deployment Details
+# Deployment Details
 Live Application URL: https://calender-application-orpin.vercel.app/
 Platform Used: Vercel
 Deployment Process:
@@ -31,7 +29,7 @@ o	Output Directory: build.
 3.	Deployment: Triggered the deployment through Vercel's interface, resulting in the live application URL.
 
   
-#Application Functionality
+# Application Functionality
 Key Features Implemented:
 1.	Company Management:
 o	Admins can add, edit, and delete company records with attributes like name, location, LinkedIn profile, emails, phone numbers, and comments.
@@ -61,7 +59,7 @@ o	Basic admin and user access is implemented, but role-based permissions are not
 o	Limited error messages for invalid inputs in forms (e.g., empty fields or invalid URLs).
 
 
- #Modules and Features
+ # Modules and Features
 A. Admin Module
 This module allows administrators to configure the application and manage foundational data effectively.
 1. Company Management
@@ -133,7 +131,7 @@ Provides actionable insights and performance metrics:
 •	Real time activity log.
 
 
-#Working 
+# Working 
 In the project directory, you can run:
 
 npm start
